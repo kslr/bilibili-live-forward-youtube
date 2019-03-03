@@ -1,0 +1,21 @@
+{
+  "name": "bilibili-live-forward-youtube",
+  "version": "0.1.0",
+  "main": "app.js",
+  "repository": "git@github.com:kslr/bilibili-live-forward-youtube.git",
+  "author": "Kslr <kslrwang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "commander": "^2.19.0",
+    "ffmpeg-static": "^2.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "lockfile": "^1.0.4",
+    "log": "^3.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}

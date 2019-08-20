@@ -6,7 +6,7 @@
   "author": "Kslr <kslrwang@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.19.0",
     "commander": "^2.19.0",
     "ffmpeg-static": "^2.4.0",
     "fluent-ffmpeg": "^2.1.2",
